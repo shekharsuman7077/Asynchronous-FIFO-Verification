@@ -1,0 +1,1 @@
+typedef uvm_sequencer#(async_tx) async_sqr;
